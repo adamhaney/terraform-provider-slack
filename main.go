@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/hashicorp/terraform/plugin"
 	"github.com/hashicorp/terraform/terraform"
-	"github.com/sfdc-pcg/terraform-provider-slack/slack"
+	"github.com/adamhaney/terraform-provider-slack/slack"
 )
 
 func main() {
